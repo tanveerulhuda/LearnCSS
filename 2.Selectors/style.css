@@ -1,0 +1,35 @@
+/* Element Selectors */
+/* body { 
+    font-size: 24px;
+} */
+/* id selectors with grouping selector*/
+#first, #second {
+    color: red;
+}
+
+/* class selectors */
+.purple {
+    color: purple;
+    font-family: monospace;
+}
+
+.highlight {
+    background-color: yellow;
+    font-weight: bolder;
+}
+
+/* Universal selector */
+* {
+    font-family: fantasy;
+}
+/* nested selector */
+#first>p {
+    color: green;
+}
+
+p:hover {
+    font-family: monospace;
+}
+h1:hover {
+    color: pink;
+}
