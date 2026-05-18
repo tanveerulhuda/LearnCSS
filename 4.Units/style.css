@@ -1,0 +1,19 @@
+main {
+    border: 5px solid brown;
+    /* border-radius: 20px; */
+
+    /* width: 50%;/ */
+    width: 25%;
+}
+h1 {
+    font-size: 3rem;
+}
+p {
+    font-size: 1.5rem;
+}
+
+section {
+    border: 5px dashed green;
+    /* width: 50%; */
+    width: 50vw;
+}
